@@ -9,6 +9,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@clerk/remix": "^4.0.0",
     "@remix-run/node": "^2.8.0",
     "@remix-run/react": "^2.8.0",
     "@remix-run/server-runtime": "^2.8.0",
